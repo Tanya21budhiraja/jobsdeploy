@@ -1,0 +1,8 @@
+{
+  "devDependencies": {
+    "json-server": "^1.0.0-alpha.23"
+  },
+  "dependencies": {
+    "build": "^0.1.4"
+  }
+}
